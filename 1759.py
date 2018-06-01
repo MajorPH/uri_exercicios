@@ -1,0 +1,4 @@
+x = int(input())
+for i in range(0, x-1):
+    print("Ho ", end='')
+print("Ho!")
